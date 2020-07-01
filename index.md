@@ -10,6 +10,28 @@ I mellomtiden, si gjerne fra om det er tema du vil høre om, som har med transpo
 Jeg heter Benjamin Myklebust Rød, er halvautodidakt sykkelreparatør, sykkelpromotør og sykkelposør. Har syklet på gamle racere, nye elsykler, sammenleggbare sykler, med kasse og vogn, med hjuletre på slep, og Kiwi-poser på styret. Bli med: lær mer, skap sykkeltur, og kom deg på sykkelen!
 ![Image](https://github.com/benjaminmyklebustrod/Sykkelpodcasten.no/blob/master/IMG_4919.JPG)
 
+## Informasjon til gjester om opptak
+For at lyden skal bli best mulig når vi ikke gjør opptaket sammen, er det aller beste at vi tar hvert vårt opptak av vår egen stemme. Det beste er da at du bruker hodetelefoner med mikrofon, slik at min stemme ikke høres på ditt opptak. Da har jeg muligheten til å sette i sammen to lokale opptak, slik at lyden ikke er tatt opp over internett.
+
+Det enkleste for å ta opp din stemme lokalt er å gjøre et opptak på datamaskinen mens samtalen pågår.
+
+[Link]Dersom du bruker en PC med Windows kan man starte programmet som heter «taleopptak», og gjøre et opptak under samtalen, og så send filen til meg.(https://www.windowscentral.com/how-record-sound-using-voice-recorder-app-windows-10)
+
+Dersom du [Link]bruker Mac kan man bruke Quicktime.(https://support.apple.com/no-no/guide/quicktime-player/qtpf25d6f827/mac)
+
+Et annet alternativ er å gjøre et opptak med mobilen og mobilens hodetelefoner, og en app som «Taleopptak» på iPhone eller tilsvarende.
+
+
+Dette kan vi gå igjennom når vi starter samtalen.
+
+
+Ellers:
+
+· Prøv å unngå å skrible og pirke på måter som slår inn på mikrofonen
+
+· Ta gjerne med et glass vann
+
+
 You can use the [editor on GitHub](https://github.com/benjaminmyklebustrod/sykkelpodcasten/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
