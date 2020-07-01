@@ -15,9 +15,9 @@ For at lyden skal bli best mulig når vi ikke gjør opptaket sammen, er det alle
 
 Det enkleste for å ta opp din stemme lokalt er å gjøre et opptak på datamaskinen mens samtalen pågår.
 
-[Link]Dersom du bruker en PC med Windows kan man starte programmet som heter «taleopptak», og gjøre et opptak under samtalen, og så send filen til meg.(https://www.windowscentral.com/how-record-sound-using-voice-recorder-app-windows-10)
+[Dersom du bruker en PC med Windows kan man starte programmet som heter «taleopptak», og gjøre et opptak under samtalen, og så send filen til meg.](https://www.windowscentral.com/how-record-sound-using-voice-recorder-app-windows-10)
 
-Dersom du [Link]bruker Mac kan man bruke Quicktime.(https://support.apple.com/no-no/guide/quicktime-player/qtpf25d6f827/mac)
+Dersom du [bruker Mac kan man bruke Quicktime.](https://support.apple.com/no-no/guide/quicktime-player/qtpf25d6f827/mac)
 
 Et annet alternativ er å gjøre et opptak med mobilen og mobilens hodetelefoner, og en app som «Taleopptak» på iPhone eller tilsvarende.
 
