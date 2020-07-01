@@ -8,7 +8,7 @@ I mellomtiden, si gjerne fra om det er tema du vil høre om, som har med transpo
 
 
 Jeg heter Benjamin Myklebust Rød, er halvautodidakt sykkelreparatør, sykkelpromotør og sykkelposør. Har syklet på gamle racere, nye elsykler, sammenleggbare sykler, med kasse og vogn, med hjuletre på slep, og Kiwi-poser på styret. Bli med: lær mer, skap sykkeltur, og kom deg på sykkelen!
-![Image](https://github.com/benjaminmyklebustrod/Sykkelpodcasten.no/blob/master/IMG_4919.JPG)
+![Image](https://github.com/benjaminmyklebustrod/Sykkelpodcasten.no/blob/master/IMG_4919.JPG?raw=true)
 
 ## Informasjon til gjester om opptak
 For at lyden skal bli best mulig når vi ikke gjør opptaket sammen, er det aller beste at vi tar hvert vårt opptak av vår egen stemme. Det beste er da at du bruker hodetelefoner med mikrofon, slik at min stemme ikke høres på ditt opptak. Da har jeg muligheten til å sette i sammen to lokale opptak, slik at lyden ikke er tatt opp over internett.
