@@ -1,7 +1,7 @@
 ## Velkommen til Sykkelpodcasten
 
-### [Hvordan bidra](#bidra-til-sykkelpodcasten)
-### [Informasjon til podcastgjester](#informasjon-til-gjester-om-opptak)
+- [Hvordan bidra](#bidra-til-sykkelpodcasten)
+- [Informasjon til podcastgjester](#informasjon-til-gjester-om-opptak)
 
 Snart kommer Sykkelpodcasten
 Er du glad i sykkel til transport, eller ønsker å sykle mer? Til jobben, til butikken, eller kanskje på sommerferie? Lurer du på hva du må ha i orden for å sykle på vinteren, eller hvorfor sykkelfeltene er så smale, eller hva en longtail er? Har du lyst til å høre fra dem som har tenkt litt lenger eller gjort noe litt mer med eller på sykkel? Da er sykkelpodcasten noe for deg. Kommer snart!
