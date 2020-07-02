@@ -12,6 +12,9 @@ I mellomtiden, si gjerne fra om det er tema du vil høre om, som har med transpo
 Jeg heter Benjamin Myklebust Rød, er halvautodidakt sykkelreparatør, sykkelpromotør og sykkelposør. Har syklet på gamle racere, nye elsykler, sammenleggbare sykler, med kasse og vogn, med hjuletre på slep, og Kiwi-poser på styret. Bli med: lær mer, skap sykkeltur, og kom deg på sykkelen!
 ![Image](https://github.com/benjaminmyklebustrod/Sykkelpodcasten.no/blob/master/IMG_4919.JPG?raw=true)
 
+## Hør podcasten her
+<iframe src="https://anchor.fm/benjamin-myklebust-rd/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ## Bidra til Sykkelpodcasten
 
 Du kan bidra til podcasten!
