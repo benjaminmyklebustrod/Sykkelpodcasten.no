@@ -19,9 +19,9 @@ Jeg heter Benjamin Myklebust Rød, er halvautodidakt sykkelreparatør, sykkelpro
 
 Du kan bidra til podcasten!
 
-Vil du foreslå noen som kan noe spesielt om sykkel eller kan fortelle en inspirerende historie, så [send inn ditt forslag](mailto:benjamin.myklebust.rod@gmail.com?subject=Innspill til Sykkelpodcasten.no)*
+Vil du foreslå noen som kan noe spesielt om sykkel eller kan fortelle en inspirerende historie, så [send inn ditt forslag](mailto:benjamin.myklebust.rod@gmail.com?subject=Innspill til Sykkelpodcasten.no)
 
-Har du lyst til å profilere din bedrift eller produkt i podcasten er det samme beskjed: *[Send epost](mailto:benjamin.myklebust.rod@gmail.com?subject=Profilering på Sykkelpodcasten.no)*
+Har du lyst til å profilere din bedrift eller produkt i podcasten er det samme beskjed: [Ta kontakt](mailto:benjamin.myklebust.rod@gmail.com?subject=Profilering på Sykkelpodcasten.no)
 
 ## Informasjon til gjester om opptak
 For at lyden skal bli best mulig når vi ikke gjør opptaket sammen, er det aller beste at vi tar hvert vårt opptak av vår egen stemme. Det beste er da at du bruker hodetelefoner med mikrofon, slik at min stemme ikke høres på ditt opptak. Da har jeg muligheten til å sette i sammen to lokale opptak, slik at lyden ikke er tatt opp over internett.
