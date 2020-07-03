@@ -10,6 +10,7 @@ Er du glad i sykkel til transport, eller ønsker å sykle mer? Til jobben, til b
 I mellomtiden, si gjerne fra om det er tema du vil høre om, som har med transportsykkel, hverdagssykling, sykkeltur, sykkelhjul, gamle sykler, nye sykler, ja nært sagt hva som har med sykkel å gjøre. Men ikke Tour de France, eller annen konkurranse. Det er det andre som prater om.
 
 Jeg heter Benjamin Myklebust Rød, er halvautodidakt sykkelreparatør, sykkelpromotør og sykkelposør. Har syklet på gamle racere, nye elsykler, sammenleggbare sykler, med kasse og vogn, med hjuletre på slep, og Kiwi-poser på styret. Bli med: lær mer, skap sykkeltur, og kom deg på sykkelen!
+
 ![Image](https://github.com/benjaminmyklebustrod/Sykkelpodcasten.no/blob/master/IMG_4919.JPG?raw=true)
 
 ## Hør podcasten her
