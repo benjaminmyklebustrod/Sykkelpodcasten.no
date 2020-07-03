@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal  
+title: ""
+description: ""
+
 github:
   is_project_page: false
 logo: "Sykkelpodcasten logo 3.1.png"
