@@ -3,11 +3,11 @@
 - [Hvordan bidra](#bidra-til-sykkelpodcasten)
 - [Informasjon til podcastgjester](#informasjon-til-gjester-om-opptak)
 
-Snart kommer Sykkelpodcasten
-Er du glad i sykkel til transport, eller ønsker å sykle mer? Til jobben, til butikken, eller kanskje på sommerferie? Lurer du på hva du må ha i orden for å sykle på vinteren, eller hvorfor sykkelfeltene er så smale, eller hva en longtail er? Har du lyst til å høre fra dem som har tenkt litt lenger eller gjort noe litt mer med eller på sykkel? Da er sykkelpodcasten noe for deg. Kommer snart!
+Her kommer Sykkelpodcasten!
 
+Er du glad i sykkel til transport, eller ønsker å sykle mer? Til jobben, til butikken, eller kanskje på sommerferie? Lurer du på hva du må ha i orden for å sykle på vinteren, eller hvorfor sykkelfeltene er så smale, eller hva en longtail er? Har du lyst til å høre fra dem som har tenkt litt lenger eller gjort noe litt mer med eller på sykkel? Da er sykkelpodcasten noe for deg.
 
-I mellomtiden, si gjerne fra om det er tema du vil høre om, som har med transportsykkel, hverdagssykling, sykkeltur, sykkelhjul, gamle sykler, nye sykler, ja nært sagt hva som har med sykkel å gjøre. Men ikke Tour de France, eller annen konkurranse. Det er det andre som prater om.
+Si gjerne fra om det er tema du vil høre om, som har med transportsykkel, hverdagssykling, sykkeltur, sykkelhjul, gamle sykler, nye sykler, ja nært sagt hva som har med sykkel å gjøre. Men ikke Tour de France, eller annen konkurranse. Det er det andre som prater om.
 
 Jeg heter Benjamin Myklebust Rød, er halvautodidakt sykkelreparatør, sykkelpromotør og sykkelposør. Har syklet på gamle racere, nye elsykler, sammenleggbare sykler, med kasse og vogn, med hjuletre på slep, og Kiwi-poser på styret. Bli med: lær mer, skap sykkeltur, og kom deg på sykkelen!
 
