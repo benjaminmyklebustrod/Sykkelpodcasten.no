@@ -14,6 +14,7 @@ Jeg heter Benjamin Myklebust Rød, er halvautodidakt sykkelreparatør, sykkelpro
 
 ## Hør den seneste episoden fra podcasten her
 <iframe src="https://anchor.fm/benjamin-myklebust-rd/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+[Du kan høre flere episoder hos Anchor.fm.](https://anchor.fm/benjamin-myklebust-rd)
 
 
 ## Bidra til Sykkelpodcasten
