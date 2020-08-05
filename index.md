@@ -3,16 +3,16 @@
 - [Hvordan bidra](#bidra-til-sykkelpodcasten)
 - [Informasjon til podcastgjester](#informasjon-til-gjester-om-opptak)
 
-Er du glad i sykkel til transport, eller ønsker å sykle mer? Til jobben, til butikken, eller kanskje på sommerferie? Lurer du på hva du må ha i orden for å sykle på vinteren, eller hvorfor sykkelfeltene er så smale, eller hva en longtail er? Har du lyst til å høre fra dem som har tenkt litt lenger eller gjort noe litt mer med eller på sykkel? Da er sykkelpodcasten noe for deg.
+Er du glad i sykkel til transport, eller ønsker å sykle mer? Til jobben, til butikken, eller kanskje på sommerferie? Lurer du på hva du må ha i orden for å sykle på vinteren, eller hvorfor sykkelfeltene er så smale, eller hva en longtail er? Har du lyst til å høre fra dem som har tenkt litt lenger eller gjort noe litt mer med eller på sykkel? Da er sykkelpodcasten noe for deg. Søk etter _Sykkelpodcasten_ på Spotify, Apple Podcast, og andre steder der du hører podcast. [Du kan også høre den på Anchor.](https://anchor.fm/benjamin-myklebust-rd)
 
 Si gjerne fra om det er tema du vil høre om, som har med transportsykkel, hverdagssykling, sykkeltur, sykkelhjul, gamle sykler, nye sykler, ja nært sagt hva som har med sykkel å gjøre. Men ikke Tour de France, eller annen konkurranse. Det er det andre som prater om.
 
-Jeg heter Benjamin Myklebust Rød, er halvautodidakt sykkelreparatør, sykkelpromotør og sykkelposør. Har syklet på gamle racere, nye elsykler, sammenleggbare sykler, med kasse og vogn, med hjuletre på slep, og Kiwi-poser på styret. Bli med: lær mer, skap sykkeltur, og kom deg på sykkelen!
+Jeg heter Benjamin Myklebust Rød, er halvautodidakt sykkelreparatør, sykkelpromotør og sykkelposør. Har syklet på gamle racere, nye elsykler, sammenleggbare sykler, med kasse og vogn, med hjuletre på slep, og Kiwi-poser på styret. Bli med: lær mer, skap sykkeltur, og kom deg på sykkelen! 
 
 ![Image](https://github.com/benjaminmyklebustrod/Sykkelpodcasten.no/blob/master/IMG_4919.JPG?raw=true)
 
 
-## Hør podcasten her
+## Hør den seneste episoden fra podcasten her
 <iframe src="https://anchor.fm/benjamin-myklebust-rd/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 
